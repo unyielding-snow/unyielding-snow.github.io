@@ -1,9 +1,9 @@
 # Site settings
 title: "unyielding-snow"
 bye_message: "Thx!"
-baseurl: "/unyielding-snow/"
+baseurl: ""
 url: "https://unyielding-snow.github.io/"
-disqus: gjuniioor
+disqus: lojustin
 
 # Header settings
 nick: "lojustin"
