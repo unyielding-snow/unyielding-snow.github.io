@@ -8,7 +8,7 @@ layout: content
 
 ### About
 
-Hello World! I'm Justin Lo's website! For Dev Log purposes. 
+Hi! I'm Justin Lo's website! For Dev Log purposes. 
 
 ### WolverineSoft Dev Log
 

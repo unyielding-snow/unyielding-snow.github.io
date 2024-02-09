@@ -3,19 +3,19 @@ title: "unyielding-snow"
 bye_message: "Thx!"
 baseurl: ""
 url: "https://unyielding-snow.github.io/"
-disqus: lojustin
+disqus: unyielding-snow
 
 # Header settings
-nick: "lojustin"
+nick: "unyielding-snow"
 mail:
     domain: "protonmail"
     ext: "ch"
 source_code:
     server: "github.com"
-    nick: "lojustin"
+    nick: "unyielding-snow"
 blog:
     server: "wordpress.com"
-    nick: "lojustin"
+    nick: "unyielding-snow"
 fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
 
 # Build settings
