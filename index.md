@@ -2,17 +2,13 @@
 layout: content
 ---
 
-# unyielding-snow
-
 [https://github.com/unyielding-snow](https://github.com/unyielding-snow/)
 
 ### About
 
-Hi! I'm Justin Lo's website! For Dev Log purposes. 
+Hi! I'm Justin Lo's website! For journaling purposes. 
 
-### WolverineSoft Dev Log
-
-[Week 1-2](/_posts/wolverinesoft-2024/2024-02-09-week-1-2)
+#### WolverineSoft Dev Log
 
 <ul class="posts">
     {% for post in site.categories.blog %}
