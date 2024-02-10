@@ -1,7 +1,7 @@
 # Site settings
 title: "unyielding-snow"
 bye_message: "Thx!"
-baseurl: ""
+baseurl: "/"
 url: "https://unyielding-snow.github.io/"
 disqus: unyielding-snow
 
