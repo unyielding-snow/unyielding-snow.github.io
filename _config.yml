@@ -17,3 +17,25 @@ blog:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
+
+# Site settings
+title: "unyielding-snow"
+bye_message: "Thx!"
+baseurl: "/"
+url: "https://unyielding-snow.github.io"
+disqus: unyielding-snow
+
+# Header settings
+nick: "unyielding-snow"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code: 
+    server: "gitlab.com"
+    nick: "unyielding-snow"
+fingerprint_key: "001"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
