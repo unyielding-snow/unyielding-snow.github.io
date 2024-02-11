@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <title>Hi this is Justin's Website!</title>
