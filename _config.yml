@@ -2,27 +2,6 @@
 title: "unyielding-snow"
 bye_message: "Thx!"
 baseurl: "/"
-url: "https://unyielding-snow.github.io/"
-disqus: unyielding-snow
-
-# Header settings
-nick: "unyielding-snow"
-source_code:
-    server: "github.com"
-    nick: "unyielding-snow"
-blog:
-    server: "wordpress.com"
-    nick: "unyielding-snow"
-
-# Build settings
-markdown: kramdown
-permalink: /:categories/:title/
-
-
-# Site settings
-title: "unyielding-snow"
-bye_message: "Thx!"
-baseurl: "/"
 url: "https://unyielding-snow.github.io"
 disqus: unyielding-snow
 
