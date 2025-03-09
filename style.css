@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Serif+Text&display=swap');
-
 
 body {
-    font-family: 'Open Sans', sans-serif; 
+    font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
     background: white;
     overflow: hidden;
@@ -305,15 +303,4 @@ body.dark {
 
 .dark #controls {
     background: black;
-}
-
-
-/* Custom CSS for CLASS: definitions*/
-
-.center {
-    text-align: center;
-}
-
-.statement {
-    
 }
